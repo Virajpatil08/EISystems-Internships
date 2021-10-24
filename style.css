@@ -1,0 +1,53 @@
+.navbar-brand {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 3em;
+    font-weight: bold;
+  }
+  
+  .navbar #myMenu .custom-nav .nav-item a {
+    color: rgb(22, 22, 22);
+  }
+  .navbar #myMenu .custom-nav .nav-item a:hover  {
+    color: white;
+  }
+  
+  .navbar {
+    color: blue;
+  }
+  
+  .h2 {
+    background-color: rgb(82, 219, 28);
+    
+  }
+  
+  .back-image {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius: 0px;
+    margin-top: 74px;
+  }
+  
+  .st {
+    font-size: 24px;
+  }
+  
+  a {
+    color: rgb(255, 0, 0);
+  }
+  a:hover {
+    color: #e994a2;
+  }
+    
+  a:link, a:visited { 
+    color: rgb(231, 13, 13);
+    text-align: center;
+    text-decoration: none;
+  
+  }
+  
+ 
+
+  
+  
